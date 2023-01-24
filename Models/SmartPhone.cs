@@ -26,12 +26,12 @@ namespace Comms.Models
 
         public void AddApplication(App app)
         {
-            applications.Add(app);
+            this.applications.Add(app);
         }
 
         public float GetTotalSize()
         {
-            float totalAppSize = 0f;
+            float totalAppSize = 0;
             foreach (App app in applications)
             {
                 totalAppSize += app.size;

@@ -13,3 +13,18 @@ C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\Exercise1\ob
 C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\Exercise1\obj\Debug\net7.0\Exercise1.pdb
 C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\Exercise1\obj\Debug\net7.0\Exercise1.genruntimeconfig.cache
 C:\Users\miks78151\OneDrive - Willis Towers Watson\Documents\CSharp\Exercise1\obj\Debug\net7.0\ref\Exercise1.dll
+C:\Users\admin\Documents\Exercise01\Exercise-1\bin\Debug\net7.0\Exercise1.exe
+C:\Users\admin\Documents\Exercise01\Exercise-1\bin\Debug\net7.0\Exercise1.deps.json
+C:\Users\admin\Documents\Exercise01\Exercise-1\bin\Debug\net7.0\Exercise1.runtimeconfig.json
+C:\Users\admin\Documents\Exercise01\Exercise-1\bin\Debug\net7.0\Exercise1.dll
+C:\Users\admin\Documents\Exercise01\Exercise-1\bin\Debug\net7.0\Exercise1.pdb
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.AssemblyInfo.cs
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.dll
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\refint\Exercise1.dll
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.pdb
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\Exercise1.genruntimeconfig.cache
+C:\Users\admin\Documents\Exercise01\Exercise-1\obj\Debug\net7.0\ref\Exercise1.dll
